@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="sun.xml.ws.jaxws.rt" type="repository">
+    <properties maven-id="com.sun.xml.ws:jaxws-rt:3.0.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jaxws-rt-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxb-impl-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxb-core-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ha-api-3.1.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/management-api-3.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gmbal-api-only-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/stax-ex-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/streambuffer-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mimepull-1.9.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/FastInfoset-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.mail-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/saaj-impl-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/woodstox-core-6.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/stax2-api-4.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.activation-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.xml.ws-api-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.xml.bind-api-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.xml.soap-api-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.jws-api-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.annotation-api-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
